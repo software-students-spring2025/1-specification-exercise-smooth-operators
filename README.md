@@ -60,4 +60,4 @@ We interviewed a friend to understand their needs for an anonymous social media 
 
 ## Clickable Prototype
 
-**Link:**  
+**Link:**  https://www.figma.com/proto/hc3Z4MJOuE83AMQJlMsBcC/Smooth-Operators?node-id=11-30&p=f&t=Y7k6J4aZ1mxHu7ly-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=11%3A30&show-proto-sidebar=1
