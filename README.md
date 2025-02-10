@@ -29,8 +29,10 @@ We interviewed a friend to understand their needs for an anonymous social media 
 
 ### Stakeholder Interview Quotes
 
-> “One of my biggest concerns is that once things get anonymous, people might start posting really harmful or offensive content.”  
+> “One of my biggest concerns is that once things get anonymous, people might start posting really harmful or offensive content.” 
+ 
 > “I need a way to filter out what’s irrelevant—otherwise it’s like finding a needle in a haystack.”  
+
 > “The best part about staying anonymous is it allows me to speak my mind on campus issues without feeling judged by my peers.”    
 
 ## Product Vision Statement
