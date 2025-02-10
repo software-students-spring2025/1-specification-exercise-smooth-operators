@@ -27,6 +27,12 @@ We interviewed a friend to understand their needs for an anonymous social media 
 - **Navigation difficulties**: Overwhelming noise and poor filtering result in a frustrating user experience.  
 - **Security concerns**: The possibility of abuse of anonymity can make users feel unsafe or hesitant to participate.  
 
+### Stakeholder Interview Quotes
+
+> “One of my biggest concerns is that once things get anonymous, people might start posting really harmful or offensive content.”  
+> “I need a way to filter out what’s irrelevant—otherwise it’s like finding a needle in a haystack.”  
+> “The best part about staying anonymous is it allows me to speak my mind on campus issues without feeling judged by my peers.”    
+
 ## Product Vision Statement
 
 > “Empower college students to share genuine insights and campus-specific experiences on an anonymous, secure, and interactive social platform that fosters community engagement, informed discussions, and safe expression.”
